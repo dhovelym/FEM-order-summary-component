@@ -58,5 +58,5 @@ I learned to use elements flexbox, layout without framewoks.
 
 ## Author
 
-[github]: https://github.com/dusvimarin
+[github](https://github.com/dusvimarin)
 
