@@ -25,8 +25,9 @@ Users should be able to:
 - Create a Component Card 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
+![](https:/https://github.com/dusvimarin/FEM-order-summary-component/tree/main/screenshots/){
 
 
 ### Links
@@ -57,6 +58,5 @@ I learned to use elements flexbox, layout without framewoks.
 - Colorzilla
 
 ## Author
-
-[github]: https://github.com/dusvimarin
+[@dusvimarin](https://github.com/dusvimarin)
 
