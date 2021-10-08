@@ -27,7 +27,9 @@ Users should be able to:
 
 ### Screenshots
 
-![](https:/https://github.com/dusvimarin/FEM-order-summary-component/tree/main/screenshots/){
+![](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/order-summary-card-desktop.png)
+
+![](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/order-summary-card-mobile.PNG)
 
 
 ### Links
