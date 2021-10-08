@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+/*Variables css*/
+
+:root {
+	--primary-pale-blue:hsl(225, 100%,94%);
+    --primary-color:hsl(245, 75%, 52%);
+    --primary-color-active:hsl(245, 83%, 68%);
+    --primary-font:hsl(223, 47%, 23%);
+    --primary-font-active:hsl(224, 23%, 55%);
+    --secundary-pale-blue:hsl(225, 100%, 98%);
+    --neutral-white:hsl(0, 0%, 100%);	
+    --neutral-light-purple:hsl(267, 98%, 74%);
+    --primary-font-family:'Red Hat Display', sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--primary-pale-blue);
+    background-image: url(images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    font-size: 1rem;
+    color: var(--primary-font);
+    font-family:var( --primary-font-family);
+}
+.card{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: var(--neutral-white);
+    width: 450px;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px 0 hsla(245, 75%, 52%, .25);
+}
+.img-card{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px 20px 0 0;
+}
+.header{
+    text-align: center;
+}
+.card-title{
+    padding-top:40px;
+    padding-bottom: 20px;
+    font-size: 1.5rem;
+    font-weight: 900;
+}
+.card-text{
+    padding-right:50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    color:var(--primary-font-active);
+}
+.card-body{
+    margin-left: 50px;
+    margin-right:50px;
+    margin-bottom: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 20px;
+    background-color: var(--secundary-pale-blue);
+}
+.icon-music{
+    padding: 20px 20px 20px 30px;
+}
+.body-text{
+    display: flex;
+    flex-direction: row;
+}
+.price{
+   padding-top: 10px;
+   padding-right: 60px;
+   padding-bottom: 10px;
+}
+.change{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+ }
+ .price-title{
+     font-size: 1rem;
+     font-weight: 900;
+ }
+ .price-text{
+    color:var(--primary-font-active);
+ }
+ .link{
+    color:var(--primary-color);
+    font-weight: 900;
+    text-decoration-color: var(--primary-font);
+ }
+ .link:hover{
+     color:var(--primary-color-active);
+     text-decoration: none;
+     cursor: pointer;
+ }
+ .card-btn{
+    margin-right:50px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+ }
+ .btn-primary{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+    background-color: var(--primary-color);
+    color: var(--neutral-white);
+    border: none;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    box-shadow: 0 15px 20px 0 hsla(245, 75%, 52%, .25);
+    transition: all .2s ease;
+ }
+ .btn-primary:hover{
+     background-color: var(--primary-color-active);
+     cursor: pointer;
+ }
+ .btn-cancel{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: transparent;
+    color:var(--primary-font-active);
+    border: none;
+    text-decoration: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+ }
+ .btn-cancel:hover{
+    color: var(--primary-font);
+    cursor: pointer;
+ }
+
+/*Footer*/
+footer{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.attribution {
+     font-size: 11px; 
+     text-align: center;
+}
+.attribution a { 
+    color:var(--neutral-light-purple);
+}
+
+/*Media queries*/
+
+@media (max-width: 470px) {
+
+    body {
+        background-color: var(--primary-pale-blue);
+        background-image: url(images/pattern-background-mobile.svg);
+        background-repeat: no-repeat;
+         background-size: contain;
+    }
+    .card{
+    max-width:320px;
+    }
+	.card-title{
+		font-size:1.4rem;
+	}
+    .card-text{
+        padding-right:25px;
+        padding-left: 25px;
+    }
+    .card-body, .card-btn {
+        margin-left: 25px;
+        margin-right:25px;
+    }
+    .icon-music{
+       padding: 15px;
+    }
+    .price{
+        padding-right: 50px;
+     }
+     .change{
+         padding-right: 10px;
+      }
+      .price-title, .price-text, .change {
+          font-size: 0.8rem;
+      }
+      
+}
+
+
