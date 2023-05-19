@@ -1,4 +1,7 @@
+## Welcome! 👋
+
 # Frontend Mentor - Order summary card 
+![Design preview for order sumary card coding challenge](./design/desktop-preview.jpg)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -27,13 +30,12 @@ Users should be able to:
 
 ### Screenshots
 
-![](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/order-summary-card-desktop.png)
-
-![](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/order-summary-card-mobile.png)
+![](https:/https://github.com/dusvimarin/FEM-order-summary-component/tree/main/screenshots/){
 
 
 ### Links
 
+[My Solution](https://dusvimarin.github.io/FEM-order-summary-component)
 
 
 ## My process
