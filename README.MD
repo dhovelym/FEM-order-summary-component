@@ -30,7 +30,8 @@ Users should be able to:
 
 ### Screenshots
 
-![](https:/https://github.com/dusvimarin/FEM-order-summary-component/tree/main/screenshots/){
+[Desktop](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/desktop.png)
+[Mobile](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/mobile.png)
 
 
 ### Links
