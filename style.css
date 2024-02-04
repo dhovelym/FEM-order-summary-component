@@ -3,7 +3,7 @@
 /*Variables css*/
 
 :root {
-	--primary-pale-blue:hsl(225, 100%,94%);
+    --primary-pale-blue:hsl(225, 100%,94%);
     --primary-color:hsl(245, 75%, 52%);
     --primary-color-active:hsl(245, 83%, 68%);
     --primary-font:hsl(223, 47%, 23%);
