@@ -64,5 +64,5 @@ I learned to use elements flexbox, layout without framewoks.
 - Colorzilla
 
 ## Author
-[@dovelym](https://github.com/dovelym)
+[@dusvy_m](https://github.com/dovelym)
 
