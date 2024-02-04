@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/desktop.png)
-![Mobile](https://github.com/dusvimarin/FEM-order-summary-component/blob/main/screenshots/mobile.png)
+![Desktop](https://github.com/dovelym/FEM-order-summary-component/blob/main/screenshots/desktop.png)
+![Mobile](https://github.com/dovelym/FEM-order-summary-component/blob/main/screenshots/mobile.png)
 
 
 
@@ -64,5 +64,5 @@ I learned to use elements flexbox, layout without framewoks.
 - Colorzilla
 
 ## Author
-[@dusvimarin](https://github.com/dusvimarin)
+[@dovelym](https://github.com/dovelym)
 
