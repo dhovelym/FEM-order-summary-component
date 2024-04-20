@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshots
 
-![Desktop](https://github.com/dovelym/FEM-order-summary-component/blob/main/screenshots/desktop.png)
-![Mobile](https://github.com/dovelym/FEM-order-summary-component/blob/main/screenshots/mobile.png)
+![Desktop](https://github.com/dovelm/FEM-order-summary-component/blob/main/screenshots/desktop.png)
+![Mobile](https://github.com/dovelm/FEM-order-summary-component/blob/main/screenshots/mobile.png)
 
 
 
 ### Links
 
-[My Solution](https://dovelym.github.io/FEM-order-summary-component)
+[My Solution](https://dovelm.github.io/FEM-order-summary-component)
 
 
 ## My process
@@ -64,5 +64,5 @@ I learned to use elements flexbox, layout without framewoks.
 - Colorzilla
 
 ## Author
-[@dusvy_m](https://github.com/dovelym)
+[@dusvy_m](https://github.com/dovelm)
 
